@@ -1,0 +1,47 @@
+
+body{
+    
+    font-family: quicksand;
+    font-size: 1em;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
+#pinturas{
+    background-color: grey;
+    width: 300px;
+    height: 100px;
+    border: 1px;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+}
+
+#madeiras{
+    background-color: greenyellow;
+    width: 300px;
+    height: 100px;
+    border: 1px;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+
+}
+
+#box3{
+    background-color: powderblue;
+    width: 300px;
+    height: 300px;
+    border: 1px;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+
+}
+
